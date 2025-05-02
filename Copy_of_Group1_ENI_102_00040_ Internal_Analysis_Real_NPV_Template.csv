@@ -1,0 +1,27 @@
+GradeWise,An NPV Analysis,,,,,,,,,
+Fiscal Year,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034
+,Revenue,,,,,,,,,
+Product Sales 1 (First half),0,5,10,25,60,150,280,600,1000,1500
+Product Sales 2 (Second Half),3,10,15,30,90,200,320,700,1300,1500
+Revenue Projections,"*Revenue and expenses will vary widely between enterprises, these are baseline assumptions",,,,,,,,,
+Subscription Tier 1 (4.99$/month),"฿6,300","฿31,000","฿31,400","฿62,800","฿188,622","฿419,000","฿670,656","฿1,467,060","฿2,724,540","฿3,143,700"
+Anticipated Annual Revenue,"฿6,300","฿31,000","฿31,400","฿62,800","฿188,622","฿419,000","฿670,656","฿1,467,060","฿2,724,540","฿3,143,700"
+Expenses, ,,,,,,,,,
+Website maintenence,"฿42,000","฿42,000","฿42,000","฿42,000","฿42,000","฿42,000","฿42,000","฿42,000","฿42,000","฿42,000"
+Cloud Storage,฿6,฿10,฿10,฿15,฿30,฿50,฿100,฿500,"฿1,000",฿100
+Training employees,฿0,฿0,฿0,฿0,฿0,฿0,"฿1,225,000",฿0,"฿1,225,000",฿0
+Wages,฿0,฿0,฿0,฿0,฿0,"฿100,000","฿100,000","฿200,000","฿250,000","฿300,000"
+Total Expenses,"฿42,006","฿42,010","฿42,010","฿42,015","฿42,030","฿142,050","฿1,367,100","฿242,500","฿1,518,000","฿342,100"
+Gross Operating Profit/Loss,"-฿35,706","-฿11,010","-฿10,610","฿20,785","฿146,592","฿276,950","-฿696,444","฿1,224,560","฿1,206,540","฿3,485,800"
+IRR,#NUM!,,,37.24%,,88.46%,,,,
+"NPV: 3 year, 5 year, 10 year","-฿50,923.34",,,"฿64,122.31",,"฿2,712,041.31",,,,
+BCR,-1.43,,,1.80,,75.95,,,,
+Assumed Discount Rate,8%,"Notes:
+Explain your assumptions. Why did you make them? How sure are you?
+Explain what you know for sure. How do you know for sure? We assumed production will progress slowly from 2025 to 2028. And then from 2028 it starts to exponentially grow. Eventually, 2032 onwards it starts to stagnates and eventually declines in growth. We assume this because this is the usual life cycle of a product if it has the chance to emerge. It starts to grow linearly, exponentially, then it stays at its peak with no more growth then it declines. We are quite certain this will happen because our product meets the demands of a market and is sold directly to schools (these numbers in the table are # of teachers).",,,,,,,,
+Start-up Capital Requested,"50,000",,,,,,,,,
+,,,,,,,,,,
+,,"The things we know for sure are the subscription price (as we set those), and cost to maintain website. We know these because we used google to find the prices. We also used google to find the prices for cloud infrastructure however since it depends on the amounts of GB we need, the price can vary. However, we anticipate that it will not be over the price we have used for our NPV calculations.",,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,"As for the wages and the price to train employees, we used statistics and current wages to determine our current expenses. We are moderately sure of this payment however as wages change all the time and number of workers/employees may fluctuate depending on company growth.",,,,,,,,
